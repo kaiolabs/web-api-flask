@@ -1,0 +1,2137 @@
+{
+  "weather": [
+    {
+      "temperature": "24.00",
+      "humidity": "77.46",
+      "dewpoint": "19.89",
+      "pressure": "1011.72",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "22-Jul-2021 13:54"
+    },
+    {
+      "temperature": "23.95",
+      "humidity": "75.93",
+      "dewpoint": "19.53",
+      "pressure": "1011.81",
+      "speed": "3.99",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 13:44"
+    },
+    {
+      "temperature": "24.15",
+      "humidity": "73.73",
+      "dewpoint": "19.26",
+      "pressure": "1011.74",
+      "speed": "2.66",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 13:34"
+    },
+    {
+      "temperature": "24.18",
+      "humidity": "73.45",
+      "dewpoint": "19.23",
+      "pressure": "1011.65",
+      "speed": "3.99",
+      "direction": "N",
+      "datetime": "22-Jul-2021 13:24"
+    },
+    {
+      "temperature": "24.35",
+      "humidity": "71.71",
+      "dewpoint": "19.02",
+      "pressure": "1011.58",
+      "speed": "5.32",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 13:14"
+    },
+    {
+      "temperature": "24.76",
+      "humidity": "69.32",
+      "dewpoint": "18.88",
+      "pressure": "1011.45",
+      "speed": "5.32",
+      "direction": "S",
+      "datetime": "22-Jul-2021 13:04"
+    },
+    {
+      "temperature": "24.85",
+      "humidity": "68.50",
+      "dewpoint": "18.78",
+      "pressure": "1011.44",
+      "speed": "3.99",
+      "direction": "SW",
+      "datetime": "22-Jul-2021 12:54"
+    },
+    {
+      "temperature": "24.95",
+      "humidity": "67.00",
+      "dewpoint": "18.52",
+      "pressure": "1011.43",
+      "speed": "3.99",
+      "direction": "NW",
+      "datetime": "22-Jul-2021 12:44"
+    },
+    {
+      "temperature": "24.92",
+      "humidity": "66.05",
+      "dewpoint": "18.27",
+      "pressure": "1011.58",
+      "speed": "2.66",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 12:34"
+    },
+    {
+      "temperature": "25.30",
+      "humidity": "64.37",
+      "dewpoint": "18.22",
+      "pressure": "1011.67",
+      "speed": "6.65",
+      "direction": "N",
+      "datetime": "22-Jul-2021 12:24"
+    },
+    {
+      "temperature": "25.74",
+      "humidity": "61.62",
+      "dewpoint": "17.94",
+      "pressure": "1011.48",
+      "speed": "6.65",
+      "direction": "W",
+      "datetime": "22-Jul-2021 12:14"
+    },
+    {
+      "temperature": "25.79",
+      "humidity": "61.96",
+      "dewpoint": "18.08",
+      "pressure": "1011.49",
+      "speed": "1.33",
+      "direction": "NW",
+      "datetime": "22-Jul-2021 12:04"
+    },
+    {
+      "temperature": "25.32",
+      "humidity": "60.89",
+      "dewpoint": "17.35",
+      "pressure": "1011.65",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 11:54"
+    },
+    {
+      "temperature": "25.51",
+      "humidity": "62.35",
+      "dewpoint": "17.91",
+      "pressure": "1011.64",
+      "speed": "10.64",
+      "direction": "S",
+      "datetime": "22-Jul-2021 11:44"
+    },
+    {
+      "temperature": "25.25",
+      "humidity": "63.28",
+      "dewpoint": "17.90",
+      "pressure": "1011.75",
+      "speed": "5.32",
+      "direction": "SW",
+      "datetime": "22-Jul-2021 11:34"
+    },
+    {
+      "temperature": "25.12",
+      "humidity": "64.13",
+      "dewpoint": "17.99",
+      "pressure": "1011.55",
+      "speed": "6.65",
+      "direction": "S",
+      "datetime": "22-Jul-2021 11:24"
+    },
+    {
+      "temperature": "25.55",
+      "humidity": "60.58",
+      "dewpoint": "17.49",
+      "pressure": "1011.64",
+      "speed": "7.98",
+      "direction": "N",
+      "datetime": "22-Jul-2021 11:14"
+    },
+    {
+      "temperature": "26.16",
+      "humidity": "58.45",
+      "dewpoint": "17.49",
+      "pressure": "1011.86",
+      "speed": "6.65",
+      "direction": "N",
+      "datetime": "22-Jul-2021 11:04"
+    },
+    {
+      "temperature": "26.19",
+      "humidity": "58.23",
+      "dewpoint": "17.46",
+      "pressure": "1011.90",
+      "speed": "3.99",
+      "direction": "W",
+      "datetime": "22-Jul-2021 10:54"
+    },
+    {
+      "temperature": "26.11",
+      "humidity": "59.08",
+      "dewpoint": "17.62",
+      "pressure": "1012.06",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "22-Jul-2021 10:44"
+    },
+    {
+      "temperature": "26.53",
+      "humidity": "58.26",
+      "dewpoint": "17.78",
+      "pressure": "1011.98",
+      "speed": "1.33",
+      "direction": "W",
+      "datetime": "22-Jul-2021 10:34"
+    },
+    {
+      "temperature": "26.39",
+      "humidity": "58.21",
+      "dewpoint": "17.64",
+      "pressure": "1012.29",
+      "speed": "3.99",
+      "direction": "W",
+      "datetime": "22-Jul-2021 10:24"
+    },
+    {
+      "temperature": "26.55",
+      "humidity": "58.15",
+      "dewpoint": "17.77",
+      "pressure": "1012.32",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "22-Jul-2021 10:14"
+    },
+    {
+      "temperature": "26.67",
+      "humidity": "57.05",
+      "dewpoint": "17.58",
+      "pressure": "1012.43",
+      "speed": "0.00",
+      "direction": "NW",
+      "datetime": "22-Jul-2021 10:04"
+    },
+    {
+      "temperature": "26.42",
+      "humidity": "57.69",
+      "dewpoint": "17.52",
+      "pressure": "1012.25",
+      "speed": "3.99",
+      "direction": "N",
+      "datetime": "22-Jul-2021 09:54"
+    },
+    {
+      "temperature": "26.68",
+      "humidity": "57.40",
+      "dewpoint": "17.69",
+      "pressure": "1012.36",
+      "speed": "2.66",
+      "direction": "SW",
+      "datetime": "22-Jul-2021 09:44"
+    },
+    {
+      "temperature": "26.70",
+      "humidity": "56.78",
+      "dewpoint": "17.53",
+      "pressure": "1012.54",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "22-Jul-2021 09:34"
+    },
+    {
+      "temperature": "26.72",
+      "humidity": "57.54",
+      "dewpoint": "17.76",
+      "pressure": "1012.71",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "22-Jul-2021 09:24"
+    },
+    {
+      "temperature": "26.31",
+      "humidity": "59.76",
+      "dewpoint": "17.99",
+      "pressure": "1012.78",
+      "speed": "11.97",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 09:14"
+    },
+    {
+      "temperature": "26.12",
+      "humidity": "59.82",
+      "dewpoint": "17.83",
+      "pressure": "1012.89",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "22-Jul-2021 09:04"
+    },
+    {
+      "temperature": "26.17",
+      "humidity": "60.14",
+      "dewpoint": "17.96",
+      "pressure": "1012.98",
+      "speed": "6.65",
+      "direction": "N",
+      "datetime": "22-Jul-2021 08:54"
+    },
+    {
+      "temperature": "26.23",
+      "humidity": "59.38",
+      "dewpoint": "17.81",
+      "pressure": "1013.10",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "22-Jul-2021 08:44"
+    },
+    {
+      "temperature": "26.53",
+      "humidity": "59.18",
+      "dewpoint": "18.04",
+      "pressure": "1013.23",
+      "speed": "3.99",
+      "direction": "NW",
+      "datetime": "22-Jul-2021 08:34"
+    },
+    {
+      "temperature": "26.36",
+      "humidity": "59.95",
+      "dewpoint": "18.09",
+      "pressure": "1013.23",
+      "speed": "5.32",
+      "direction": "N",
+      "datetime": "22-Jul-2021 08:24"
+    },
+    {
+      "temperature": "26.46",
+      "humidity": "60.30",
+      "dewpoint": "18.28",
+      "pressure": "1013.50",
+      "speed": "3.99",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 08:14"
+    },
+    {
+      "temperature": "26.75",
+      "humidity": "58.31",
+      "dewpoint": "18.01",
+      "pressure": "1013.43",
+      "speed": "1.33",
+      "direction": "NW",
+      "datetime": "22-Jul-2021 08:04"
+    },
+    {
+      "temperature": "26.84",
+      "humidity": "59.42",
+      "dewpoint": "18.40",
+      "pressure": "1013.42",
+      "speed": "3.99",
+      "direction": "SW",
+      "datetime": "22-Jul-2021 07:54"
+    },
+    {
+      "temperature": "26.88",
+      "humidity": "58.41",
+      "dewpoint": "18.16",
+      "pressure": "1013.65",
+      "speed": "3.99",
+      "direction": "SW",
+      "datetime": "22-Jul-2021 07:44"
+    },
+    {
+      "temperature": "27.29",
+      "humidity": "58.76",
+      "dewpoint": "18.64",
+      "pressure": "1013.91",
+      "speed": "0.00",
+      "direction": "SW",
+      "datetime": "22-Jul-2021 07:34"
+    },
+    {
+      "temperature": "26.96",
+      "humidity": "59.12",
+      "dewpoint": "18.43",
+      "pressure": "1013.96",
+      "speed": "0.00",
+      "direction": "W",
+      "datetime": "22-Jul-2021 07:24"
+    },
+    {
+      "temperature": "26.45",
+      "humidity": "58.39",
+      "dewpoint": "17.75",
+      "pressure": "1013.99",
+      "speed": "1.33",
+      "direction": "W",
+      "datetime": "22-Jul-2021 07:14"
+    },
+    {
+      "temperature": "26.70",
+      "humidity": "58.17",
+      "dewpoint": "17.92",
+      "pressure": "1014.13",
+      "speed": "1.33",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 07:04"
+    },
+    {
+      "temperature": "26.71",
+      "humidity": "57.36",
+      "dewpoint": "17.70",
+      "pressure": "1014.28",
+      "speed": "1.33",
+      "direction": "W",
+      "datetime": "22-Jul-2021 06:54"
+    },
+    {
+      "temperature": "26.54",
+      "humidity": "58.45",
+      "dewpoint": "17.85",
+      "pressure": "1014.38",
+      "speed": "1.33",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 06:44"
+    },
+    {
+      "temperature": "26.15",
+      "humidity": "58.54",
+      "dewpoint": "17.51",
+      "pressure": "1014.49",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 06:34"
+    },
+    {
+      "temperature": "26.14",
+      "humidity": "58.16",
+      "dewpoint": "17.39",
+      "pressure": "1014.62",
+      "speed": "10.64",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 06:24"
+    },
+    {
+      "temperature": "25.90",
+      "humidity": "58.81",
+      "dewpoint": "17.34",
+      "pressure": "1014.65",
+      "speed": "3.99",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 06:13"
+    },
+    {
+      "temperature": "26.10",
+      "humidity": "58.48",
+      "dewpoint": "17.44",
+      "pressure": "1014.72",
+      "speed": "5.32",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 06:03"
+    },
+    {
+      "temperature": "25.90",
+      "humidity": "59.59",
+      "dewpoint": "17.56",
+      "pressure": "1014.97",
+      "speed": "2.66",
+      "direction": "SW",
+      "datetime": "22-Jul-2021 05:53"
+    },
+    {
+      "temperature": "25.70",
+      "humidity": "58.81",
+      "dewpoint": "17.15",
+      "pressure": "1014.80",
+      "speed": "9.31",
+      "direction": "SW",
+      "datetime": "22-Jul-2021 05:43"
+    },
+    {
+      "temperature": "25.10",
+      "humidity": "60.20",
+      "dewpoint": "16.96",
+      "pressure": "1014.76",
+      "speed": "9.31",
+      "direction": "N",
+      "datetime": "22-Jul-2021 05:33"
+    },
+    {
+      "temperature": "24.95",
+      "humidity": "60.05",
+      "dewpoint": "16.78",
+      "pressure": "1014.76",
+      "speed": "2.66",
+      "direction": "SW",
+      "datetime": "22-Jul-2021 05:23"
+    },
+    {
+      "temperature": "25.14",
+      "humidity": "61.26",
+      "dewpoint": "17.28",
+      "pressure": "1014.89",
+      "speed": "3.99",
+      "direction": "S",
+      "datetime": "22-Jul-2021 05:13"
+    },
+    {
+      "temperature": "24.76",
+      "humidity": "60.48",
+      "dewpoint": "16.71",
+      "pressure": "1014.92",
+      "speed": "2.66",
+      "direction": "NW",
+      "datetime": "22-Jul-2021 05:03"
+    },
+    {
+      "temperature": "24.43",
+      "humidity": "61.49",
+      "dewpoint": "16.67",
+      "pressure": "1014.95",
+      "speed": "5.32",
+      "direction": "N",
+      "datetime": "22-Jul-2021 04:53"
+    },
+    {
+      "temperature": "24.34",
+      "humidity": "64.08",
+      "dewpoint": "17.23",
+      "pressure": "1014.86",
+      "speed": "3.99",
+      "direction": "N",
+      "datetime": "22-Jul-2021 04:43"
+    },
+    {
+      "temperature": "23.86",
+      "humidity": "62.93",
+      "dewpoint": "16.49",
+      "pressure": "1015.00",
+      "speed": "6.65",
+      "direction": "W",
+      "datetime": "22-Jul-2021 04:33"
+    },
+    {
+      "temperature": "24.49",
+      "humidity": "60.92",
+      "dewpoint": "16.57",
+      "pressure": "1014.68",
+      "speed": "6.65",
+      "direction": "N",
+      "datetime": "22-Jul-2021 04:23"
+    },
+    {
+      "temperature": "25.46",
+      "humidity": "58.24",
+      "dewpoint": "16.77",
+      "pressure": "1014.84",
+      "speed": "3.99",
+      "direction": "W",
+      "datetime": "22-Jul-2021 04:13"
+    },
+    {
+      "temperature": "23.79",
+      "humidity": "65.09",
+      "dewpoint": "16.96",
+      "pressure": "1014.96",
+      "speed": "3.99",
+      "direction": "W",
+      "datetime": "22-Jul-2021 04:03"
+    },
+    {
+      "temperature": "25.77",
+      "humidity": "55.56",
+      "dewpoint": "16.31",
+      "pressure": "1014.91",
+      "speed": "3.99",
+      "direction": "SW",
+      "datetime": "22-Jul-2021 03:53"
+    },
+    {
+      "temperature": "25.76",
+      "humidity": "57.61",
+      "dewpoint": "16.88",
+      "pressure": "1014.94",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "22-Jul-2021 03:43"
+    },
+    {
+      "temperature": "23.89",
+      "humidity": "63.68",
+      "dewpoint": "16.71",
+      "pressure": "1014.95",
+      "speed": "5.32",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 03:33"
+    },
+    {
+      "temperature": "20.53",
+      "humidity": "74.59",
+      "dewpoint": "15.94",
+      "pressure": "1014.98",
+      "speed": "7.98",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 03:23"
+    },
+    {
+      "temperature": "20.34",
+      "humidity": "75.20",
+      "dewpoint": "15.87",
+      "pressure": "1014.86",
+      "speed": "2.66",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 03:13"
+    },
+    {
+      "temperature": "20.32",
+      "humidity": "75.07",
+      "dewpoint": "15.83",
+      "pressure": "1014.96",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 03:03"
+    },
+    {
+      "temperature": "19.98",
+      "humidity": "76.44",
+      "dewpoint": "15.78",
+      "pressure": "1014.80",
+      "speed": "11.97",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 02:53"
+    },
+    {
+      "temperature": "19.45",
+      "humidity": "78.28",
+      "dewpoint": "15.62",
+      "pressure": "1014.84",
+      "speed": "3.99",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 02:43"
+    },
+    {
+      "temperature": "19.18",
+      "humidity": "78.89",
+      "dewpoint": "15.47",
+      "pressure": "1014.82",
+      "speed": "5.32",
+      "direction": "SW",
+      "datetime": "22-Jul-2021 02:33"
+    },
+    {
+      "temperature": "19.01",
+      "humidity": "79.67",
+      "dewpoint": "15.46",
+      "pressure": "1014.88",
+      "speed": "5.32",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 02:23"
+    },
+    {
+      "temperature": "18.95",
+      "humidity": "80.62",
+      "dewpoint": "15.58",
+      "pressure": "1014.87",
+      "speed": "9.31",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 02:13"
+    },
+    {
+      "temperature": "18.97",
+      "humidity": "82.04",
+      "dewpoint": "15.86",
+      "pressure": "1014.75",
+      "speed": "6.65",
+      "direction": "W",
+      "datetime": "22-Jul-2021 02:03"
+    },
+    {
+      "temperature": "18.81",
+      "humidity": "81.94",
+      "dewpoint": "15.69",
+      "pressure": "1014.58",
+      "speed": "5.32",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 01:53"
+    },
+    {
+      "temperature": "18.76",
+      "humidity": "80.57",
+      "dewpoint": "15.38",
+      "pressure": "1014.58",
+      "speed": "6.65",
+      "direction": "N",
+      "datetime": "22-Jul-2021 01:43"
+    },
+    {
+      "temperature": "18.84",
+      "humidity": "79.37",
+      "dewpoint": "15.24",
+      "pressure": "1014.47",
+      "speed": "2.66",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 01:33"
+    },
+    {
+      "temperature": "18.90",
+      "humidity": "78.64",
+      "dewpoint": "15.15",
+      "pressure": "1014.58",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 01:23"
+    },
+    {
+      "temperature": "18.97",
+      "humidity": "77.86",
+      "dewpoint": "15.07",
+      "pressure": "1014.40",
+      "speed": "6.65",
+      "direction": "N",
+      "datetime": "22-Jul-2021 01:13"
+    },
+    {
+      "temperature": "19.15",
+      "humidity": "77.04",
+      "dewpoint": "15.09",
+      "pressure": "1014.65",
+      "speed": "1.33",
+      "direction": "N",
+      "datetime": "22-Jul-2021 01:03"
+    },
+    {
+      "temperature": "19.21",
+      "humidity": "77.39",
+      "dewpoint": "15.21",
+      "pressure": "1014.51",
+      "speed": "7.98",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 00:53"
+    },
+    {
+      "temperature": "19.16",
+      "humidity": "77.06",
+      "dewpoint": "15.10",
+      "pressure": "1014.26",
+      "speed": "2.66",
+      "direction": "N",
+      "datetime": "22-Jul-2021 00:43"
+    },
+    {
+      "temperature": "19.08",
+      "humidity": "76.68",
+      "dewpoint": "14.95",
+      "pressure": "1014.18",
+      "speed": "5.32",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 00:33"
+    },
+    {
+      "temperature": "19.07",
+      "humidity": "76.15",
+      "dewpoint": "14.83",
+      "pressure": "1014.33",
+      "speed": "6.65",
+      "direction": "W",
+      "datetime": "22-Jul-2021 00:23"
+    },
+    {
+      "temperature": "19.16",
+      "humidity": "75.50",
+      "dewpoint": "14.79",
+      "pressure": "1014.51",
+      "speed": "2.66",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 00:13"
+    },
+    {
+      "temperature": "19.17",
+      "humidity": "75.69",
+      "dewpoint": "14.84",
+      "pressure": "1014.51",
+      "speed": "5.32",
+      "direction": "NE",
+      "datetime": "22-Jul-2021 00:03"
+    },
+    {
+      "temperature": "19.17",
+      "humidity": "75.47",
+      "dewpoint": "14.80",
+      "pressure": "1014.62",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 23:53"
+    },
+    {
+      "temperature": "19.26",
+      "humidity": "75.17",
+      "dewpoint": "14.82",
+      "pressure": "1014.76",
+      "speed": "2.66",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 23:43"
+    },
+    {
+      "temperature": "19.18",
+      "humidity": "75.79",
+      "dewpoint": "14.87",
+      "pressure": "1014.76",
+      "speed": "3.99",
+      "direction": "N",
+      "datetime": "21-Jul-2021 23:33"
+    },
+    {
+      "temperature": "19.23",
+      "humidity": "76.32",
+      "dewpoint": "15.02",
+      "pressure": "1014.76",
+      "speed": "6.65",
+      "direction": "N",
+      "datetime": "21-Jul-2021 23:23"
+    },
+    {
+      "temperature": "19.36",
+      "humidity": "75.89",
+      "dewpoint": "15.06",
+      "pressure": "1014.87",
+      "speed": "1.33",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 23:13"
+    },
+    {
+      "temperature": "19.42",
+      "humidity": "75.66",
+      "dewpoint": "15.07",
+      "pressure": "1014.90",
+      "speed": "5.32",
+      "direction": "N",
+      "datetime": "21-Jul-2021 23:03"
+    },
+    {
+      "temperature": "19.48",
+      "humidity": "75.43",
+      "dewpoint": "15.09",
+      "pressure": "1014.72",
+      "speed": "5.32",
+      "direction": "N",
+      "datetime": "21-Jul-2021 22:53"
+    },
+    {
+      "temperature": "19.55",
+      "humidity": "74.97",
+      "dewpoint": "15.06",
+      "pressure": "1014.78",
+      "speed": "5.32",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 22:43"
+    },
+    {
+      "temperature": "19.63",
+      "humidity": "74.40",
+      "dewpoint": "15.02",
+      "pressure": "1014.77",
+      "speed": "6.65",
+      "direction": "N",
+      "datetime": "21-Jul-2021 22:33"
+    },
+    {
+      "temperature": "19.71",
+      "humidity": "74.22",
+      "dewpoint": "15.06",
+      "pressure": "1014.83",
+      "speed": "5.32",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 22:23"
+    },
+    {
+      "temperature": "19.73",
+      "humidity": "74.48",
+      "dewpoint": "15.14",
+      "pressure": "1014.78",
+      "speed": "6.65",
+      "direction": "N",
+      "datetime": "21-Jul-2021 22:13"
+    },
+    {
+      "temperature": "19.77",
+      "humidity": "74.66",
+      "dewpoint": "15.21",
+      "pressure": "1014.83",
+      "speed": "3.99",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 22:03"
+    },
+    {
+      "temperature": "19.80",
+      "humidity": "74.55",
+      "dewpoint": "15.22",
+      "pressure": "1014.88",
+      "speed": "6.65",
+      "direction": "S",
+      "datetime": "21-Jul-2021 21:53"
+    },
+    {
+      "temperature": "19.83",
+      "humidity": "74.47",
+      "dewpoint": "15.23",
+      "pressure": "1014.80",
+      "speed": "9.31",
+      "direction": "W",
+      "datetime": "21-Jul-2021 21:43"
+    },
+    {
+      "temperature": "19.85",
+      "humidity": "74.25",
+      "dewpoint": "15.21",
+      "pressure": "1014.78",
+      "speed": "11.97",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 21:33"
+    },
+    {
+      "temperature": "19.89",
+      "humidity": "74.77",
+      "dewpoint": "15.35",
+      "pressure": "1014.89",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 21:23"
+    },
+    {
+      "temperature": "19.88",
+      "humidity": "74.92",
+      "dewpoint": "15.37",
+      "pressure": "1015.07",
+      "speed": "11.97",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 21:13"
+    },
+    {
+      "temperature": "19.89",
+      "humidity": "75.10",
+      "dewpoint": "15.42",
+      "pressure": "1015.13",
+      "speed": "9.31",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 21:03"
+    },
+    {
+      "temperature": "19.97",
+      "humidity": "75.04",
+      "dewpoint": "15.48",
+      "pressure": "1015.08",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 20:52"
+    },
+    {
+      "temperature": "20.08",
+      "humidity": "74.58",
+      "dewpoint": "15.50",
+      "pressure": "1015.26",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 20:42"
+    },
+    {
+      "temperature": "20.16",
+      "humidity": "74.18",
+      "dewpoint": "15.49",
+      "pressure": "1015.40",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 20:32"
+    },
+    {
+      "temperature": "20.24",
+      "humidity": "73.92",
+      "dewpoint": "15.52",
+      "pressure": "1015.41",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 20:22"
+    },
+    {
+      "temperature": "20.33",
+      "humidity": "73.78",
+      "dewpoint": "15.57",
+      "pressure": "1015.43",
+      "speed": "7.98",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 20:12"
+    },
+    {
+      "temperature": "20.53",
+      "humidity": "74.04",
+      "dewpoint": "15.82",
+      "pressure": "1015.50",
+      "speed": "9.31",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 20:02"
+    },
+    {
+      "temperature": "20.73",
+      "humidity": "73.79",
+      "dewpoint": "15.96",
+      "pressure": "1015.71",
+      "speed": "2.66",
+      "direction": "N",
+      "datetime": "21-Jul-2021 19:52"
+    },
+    {
+      "temperature": "20.91",
+      "humidity": "73.48",
+      "dewpoint": "16.07",
+      "pressure": "1015.68",
+      "speed": "5.32",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 19:42"
+    },
+    {
+      "temperature": "21.11",
+      "humidity": "72.97",
+      "dewpoint": "16.16",
+      "pressure": "1015.50",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 19:32"
+    },
+    {
+      "temperature": "21.22",
+      "humidity": "72.33",
+      "dewpoint": "16.13",
+      "pressure": "1015.45",
+      "speed": "7.98",
+      "direction": "N",
+      "datetime": "21-Jul-2021 19:22"
+    },
+    {
+      "temperature": "21.26",
+      "humidity": "72.28",
+      "dewpoint": "16.16",
+      "pressure": "1015.50",
+      "speed": "9.31",
+      "direction": "W",
+      "datetime": "21-Jul-2021 19:12"
+    },
+    {
+      "temperature": "21.32",
+      "humidity": "72.95",
+      "dewpoint": "16.36",
+      "pressure": "1015.49",
+      "speed": "9.31",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 19:02"
+    },
+    {
+      "temperature": "21.51",
+      "humidity": "72.81",
+      "dewpoint": "16.51",
+      "pressure": "1015.60",
+      "speed": "9.31",
+      "direction": "SW",
+      "datetime": "21-Jul-2021 18:52"
+    },
+    {
+      "temperature": "21.42",
+      "humidity": "72.31",
+      "dewpoint": "16.32",
+      "pressure": "1015.68",
+      "speed": "15.96",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 18:42"
+    },
+    {
+      "temperature": "21.50",
+      "humidity": "72.53",
+      "dewpoint": "16.44",
+      "pressure": "1015.87",
+      "speed": "10.64",
+      "direction": "W",
+      "datetime": "21-Jul-2021 18:32"
+    },
+    {
+      "temperature": "21.46",
+      "humidity": "72.25",
+      "dewpoint": "16.35",
+      "pressure": "1016.05",
+      "speed": "13.30",
+      "direction": "N",
+      "datetime": "21-Jul-2021 18:22"
+    },
+    {
+      "temperature": "21.45",
+      "humidity": "72.65",
+      "dewpoint": "16.42",
+      "pressure": "1016.10",
+      "speed": "13.30",
+      "direction": "N",
+      "datetime": "21-Jul-2021 18:12"
+    },
+    {
+      "temperature": "21.45",
+      "humidity": "72.22",
+      "dewpoint": "16.33",
+      "pressure": "1016.18",
+      "speed": "7.98",
+      "direction": "N",
+      "datetime": "21-Jul-2021 18:02"
+    },
+    {
+      "temperature": "21.47",
+      "humidity": "72.11",
+      "dewpoint": "16.33",
+      "pressure": "1016.27",
+      "speed": "5.32",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 17:52"
+    },
+    {
+      "temperature": "21.46",
+      "humidity": "71.95",
+      "dewpoint": "16.28",
+      "pressure": "1016.30",
+      "speed": "6.65",
+      "direction": "N",
+      "datetime": "21-Jul-2021 17:42"
+    },
+    {
+      "temperature": "21.42",
+      "humidity": "71.63",
+      "dewpoint": "16.17",
+      "pressure": "1016.35",
+      "speed": "7.98",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 17:32"
+    },
+    {
+      "temperature": "21.47",
+      "humidity": "71.76",
+      "dewpoint": "16.25",
+      "pressure": "1016.43",
+      "speed": "6.65",
+      "direction": "SW",
+      "datetime": "21-Jul-2021 17:22"
+    },
+    {
+      "temperature": "21.48",
+      "humidity": "71.65",
+      "dewpoint": "16.24",
+      "pressure": "1016.54",
+      "speed": "18.62",
+      "direction": "N",
+      "datetime": "21-Jul-2021 17:12"
+    },
+    {
+      "temperature": "21.42",
+      "humidity": "70.45",
+      "dewpoint": "15.92",
+      "pressure": "1016.55",
+      "speed": "7.98",
+      "direction": "N",
+      "datetime": "21-Jul-2021 17:02"
+    },
+    {
+      "temperature": "21.47",
+      "humidity": "70.44",
+      "dewpoint": "15.96",
+      "pressure": "1016.58",
+      "speed": "6.65",
+      "direction": "N",
+      "datetime": "21-Jul-2021 16:52"
+    },
+    {
+      "temperature": "21.44",
+      "humidity": "70.03",
+      "dewpoint": "15.85",
+      "pressure": "1016.69",
+      "speed": "9.31",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 16:42"
+    },
+    {
+      "temperature": "21.40",
+      "humidity": "69.64",
+      "dewpoint": "15.72",
+      "pressure": "1016.59",
+      "speed": "13.30",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 16:32"
+    },
+    {
+      "temperature": "21.47",
+      "humidity": "70.20",
+      "dewpoint": "15.91",
+      "pressure": "1016.47",
+      "speed": "7.98",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 16:22"
+    },
+    {
+      "temperature": "21.38",
+      "humidity": "69.23",
+      "dewpoint": "15.61",
+      "pressure": "1016.58",
+      "speed": "10.64",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 16:12"
+    },
+    {
+      "temperature": "21.37",
+      "humidity": "67.33",
+      "dewpoint": "15.17",
+      "pressure": "1016.62",
+      "speed": "15.96",
+      "direction": "SW",
+      "datetime": "21-Jul-2021 16:02"
+    },
+    {
+      "temperature": "21.39",
+      "humidity": "67.49",
+      "dewpoint": "15.23",
+      "pressure": "1016.60",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 15:52"
+    },
+    {
+      "temperature": "21.47",
+      "humidity": "67.69",
+      "dewpoint": "15.35",
+      "pressure": "1016.57",
+      "speed": "10.64",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 15:42"
+    },
+    {
+      "temperature": "21.50",
+      "humidity": "66.73",
+      "dewpoint": "15.16",
+      "pressure": "1016.46",
+      "speed": "9.31",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 15:32"
+    },
+    {
+      "temperature": "21.55",
+      "humidity": "67.67",
+      "dewpoint": "15.42",
+      "pressure": "1016.56",
+      "speed": "9.31",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 15:22"
+    },
+    {
+      "temperature": "21.49",
+      "humidity": "66.85",
+      "dewpoint": "15.18",
+      "pressure": "1016.44",
+      "speed": "7.98",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 15:12"
+    },
+    {
+      "temperature": "21.55",
+      "humidity": "68.81",
+      "dewpoint": "15.68",
+      "pressure": "1016.37",
+      "speed": "9.31",
+      "direction": "N",
+      "datetime": "21-Jul-2021 15:02"
+    },
+    {
+      "temperature": "21.63",
+      "humidity": "69.31",
+      "dewpoint": "15.87",
+      "pressure": "1016.39",
+      "speed": "10.64",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 14:52"
+    },
+    {
+      "temperature": "21.66",
+      "humidity": "68.03",
+      "dewpoint": "15.61",
+      "pressure": "1016.29",
+      "speed": "10.64",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 14:42"
+    },
+    {
+      "temperature": "21.77",
+      "humidity": "68.82",
+      "dewpoint": "15.89",
+      "pressure": "1016.17",
+      "speed": "5.32",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 14:32"
+    },
+    {
+      "temperature": "21.82",
+      "humidity": "68.48",
+      "dewpoint": "15.87",
+      "pressure": "1015.95",
+      "speed": "7.98",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 14:22"
+    },
+    {
+      "temperature": "21.92",
+      "humidity": "67.24",
+      "dewpoint": "15.68",
+      "pressure": "1016.10",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 14:12"
+    },
+    {
+      "temperature": "22.07",
+      "humidity": "66.13",
+      "dewpoint": "15.56",
+      "pressure": "1016.15",
+      "speed": "5.32",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 14:02"
+    },
+    {
+      "temperature": "22.22",
+      "humidity": "65.93",
+      "dewpoint": "15.66",
+      "pressure": "1016.24",
+      "speed": "2.66",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 13:52"
+    },
+    {
+      "temperature": "22.46",
+      "humidity": "65.15",
+      "dewpoint": "15.70",
+      "pressure": "1016.29",
+      "speed": "6.65",
+      "direction": "W",
+      "datetime": "21-Jul-2021 13:42"
+    },
+    {
+      "temperature": "22.55",
+      "humidity": "63.45",
+      "dewpoint": "15.37",
+      "pressure": "1016.36",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 13:32"
+    },
+    {
+      "temperature": "22.69",
+      "humidity": "64.69",
+      "dewpoint": "15.81",
+      "pressure": "1016.34",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 13:22"
+    },
+    {
+      "temperature": "23.14",
+      "humidity": "62.97",
+      "dewpoint": "15.82",
+      "pressure": "1016.30",
+      "speed": "7.98",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 13:12"
+    },
+    {
+      "temperature": "23.27",
+      "humidity": "62.08",
+      "dewpoint": "15.72",
+      "pressure": "1016.13",
+      "speed": "2.66",
+      "direction": "N",
+      "datetime": "21-Jul-2021 13:02"
+    },
+    {
+      "temperature": "23.48",
+      "humidity": "61.75",
+      "dewpoint": "15.83",
+      "pressure": "1016.22",
+      "speed": "3.99",
+      "direction": "SW",
+      "datetime": "21-Jul-2021 12:52"
+    },
+    {
+      "temperature": "23.51",
+      "humidity": "59.54",
+      "dewpoint": "15.29",
+      "pressure": "1016.20",
+      "speed": "5.32",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 12:42"
+    },
+    {
+      "temperature": "23.77",
+      "humidity": "58.84",
+      "dewpoint": "15.35",
+      "pressure": "1016.28",
+      "speed": "3.99",
+      "direction": "W",
+      "datetime": "21-Jul-2021 12:32"
+    },
+    {
+      "temperature": "23.76",
+      "humidity": "57.98",
+      "dewpoint": "15.10",
+      "pressure": "1016.28",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "21-Jul-2021 12:22"
+    },
+    {
+      "temperature": "23.88",
+      "humidity": "59.14",
+      "dewpoint": "15.53",
+      "pressure": "1016.31",
+      "speed": "5.32",
+      "direction": "W",
+      "datetime": "21-Jul-2021 12:12"
+    },
+    {
+      "temperature": "24.07",
+      "humidity": "59.33",
+      "dewpoint": "15.76",
+      "pressure": "1016.41",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "21-Jul-2021 12:02"
+    },
+    {
+      "temperature": "23.92",
+      "humidity": "58.19",
+      "dewpoint": "15.31",
+      "pressure": "1016.49",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "21-Jul-2021 11:52"
+    },
+    {
+      "temperature": "24.02",
+      "humidity": "58.57",
+      "dewpoint": "15.51",
+      "pressure": "1016.45",
+      "speed": "3.99",
+      "direction": "W",
+      "datetime": "21-Jul-2021 11:42"
+    },
+    {
+      "temperature": "24.13",
+      "humidity": "56.95",
+      "dewpoint": "15.16",
+      "pressure": "1016.40",
+      "speed": "3.99",
+      "direction": "W",
+      "datetime": "21-Jul-2021 11:32"
+    },
+    {
+      "temperature": "24.23",
+      "humidity": "56.54",
+      "dewpoint": "15.14",
+      "pressure": "1016.45",
+      "speed": "5.32",
+      "direction": "SW",
+      "datetime": "21-Jul-2021 11:22"
+    },
+    {
+      "temperature": "24.33",
+      "humidity": "55.23",
+      "dewpoint": "14.87",
+      "pressure": "1016.45",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 11:12"
+    },
+    {
+      "temperature": "24.56",
+      "humidity": "53.67",
+      "dewpoint": "14.62",
+      "pressure": "1016.71",
+      "speed": "3.99",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 11:02"
+    },
+    {
+      "temperature": "24.50",
+      "humidity": "54.29",
+      "dewpoint": "14.75",
+      "pressure": "1016.89",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "21-Jul-2021 10:52"
+    },
+    {
+      "temperature": "24.56",
+      "humidity": "54.36",
+      "dewpoint": "14.83",
+      "pressure": "1016.99",
+      "speed": "1.33",
+      "direction": "W",
+      "datetime": "21-Jul-2021 10:41"
+    },
+    {
+      "temperature": "24.20",
+      "humidity": "55.13",
+      "dewpoint": "14.71",
+      "pressure": "1017.14",
+      "speed": "1.33",
+      "direction": "W",
+      "datetime": "21-Jul-2021 10:31"
+    },
+    {
+      "temperature": "24.86",
+      "humidity": "53.62",
+      "dewpoint": "14.89",
+      "pressure": "1017.26",
+      "speed": "2.66",
+      "direction": "SW",
+      "datetime": "21-Jul-2021 10:21"
+    },
+    {
+      "temperature": "24.74",
+      "humidity": "54.50",
+      "dewpoint": "15.04",
+      "pressure": "1017.22",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "21-Jul-2021 10:11"
+    },
+    {
+      "temperature": "25.01",
+      "humidity": "53.20",
+      "dewpoint": "14.90",
+      "pressure": "1017.37",
+      "speed": "1.33",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 10:01"
+    },
+    {
+      "temperature": "24.93",
+      "humidity": "53.17",
+      "dewpoint": "14.82",
+      "pressure": "1017.50",
+      "speed": "5.32",
+      "direction": "N",
+      "datetime": "21-Jul-2021 09:51"
+    },
+    {
+      "temperature": "25.02",
+      "humidity": "53.00",
+      "dewpoint": "14.85",
+      "pressure": "1017.60",
+      "speed": "1.33",
+      "direction": "W",
+      "datetime": "21-Jul-2021 09:41"
+    },
+    {
+      "temperature": "25.21",
+      "humidity": "53.44",
+      "dewpoint": "15.16",
+      "pressure": "1017.65",
+      "speed": "0.00",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 09:31"
+    },
+    {
+      "temperature": "25.03",
+      "humidity": "52.63",
+      "dewpoint": "14.75",
+      "pressure": "1017.75",
+      "speed": "1.33",
+      "direction": "W",
+      "datetime": "21-Jul-2021 09:21"
+    },
+    {
+      "temperature": "25.19",
+      "humidity": "52.74",
+      "dewpoint": "14.93",
+      "pressure": "1017.90",
+      "speed": "2.66",
+      "direction": "SW",
+      "datetime": "21-Jul-2021 09:11"
+    },
+    {
+      "temperature": "25.09",
+      "humidity": "52.82",
+      "dewpoint": "14.86",
+      "pressure": "1017.96",
+      "speed": "1.33",
+      "direction": "W",
+      "datetime": "21-Jul-2021 09:01"
+    },
+    {
+      "temperature": "24.80",
+      "humidity": "52.39",
+      "dewpoint": "14.46",
+      "pressure": "1018.06",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "21-Jul-2021 08:51"
+    },
+    {
+      "temperature": "25.26",
+      "humidity": "50.90",
+      "dewpoint": "14.43",
+      "pressure": "1018.18",
+      "speed": "3.99",
+      "direction": "W",
+      "datetime": "21-Jul-2021 08:41"
+    },
+    {
+      "temperature": "25.33",
+      "humidity": "50.04",
+      "dewpoint": "14.22",
+      "pressure": "1018.22",
+      "speed": "1.33",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 08:31"
+    },
+    {
+      "temperature": "25.61",
+      "humidity": "51.17",
+      "dewpoint": "14.84",
+      "pressure": "1018.39",
+      "speed": "2.66",
+      "direction": "SW",
+      "datetime": "21-Jul-2021 08:21"
+    },
+    {
+      "temperature": "25.52",
+      "humidity": "49.93",
+      "dewpoint": "14.36",
+      "pressure": "1018.40",
+      "speed": "3.99",
+      "direction": "W",
+      "datetime": "21-Jul-2021 08:11"
+    },
+    {
+      "temperature": "25.20",
+      "humidity": "50.50",
+      "dewpoint": "14.25",
+      "pressure": "1018.53",
+      "speed": "7.98",
+      "direction": "W",
+      "datetime": "21-Jul-2021 08:01"
+    },
+    {
+      "temperature": "25.50",
+      "humidity": "50.29",
+      "dewpoint": "14.46",
+      "pressure": "1018.64",
+      "speed": "3.99",
+      "direction": "N",
+      "datetime": "21-Jul-2021 07:51"
+    },
+    {
+      "temperature": "25.49",
+      "humidity": "50.25",
+      "dewpoint": "14.44",
+      "pressure": "1018.77",
+      "speed": "1.33",
+      "direction": "W",
+      "datetime": "21-Jul-2021 07:41"
+    },
+    {
+      "temperature": "25.58",
+      "humidity": "50.78",
+      "dewpoint": "14.69",
+      "pressure": "1018.94",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "21-Jul-2021 07:31"
+    },
+    {
+      "temperature": "25.46",
+      "humidity": "50.71",
+      "dewpoint": "14.56",
+      "pressure": "1019.00",
+      "speed": "1.33",
+      "direction": "W",
+      "datetime": "21-Jul-2021 07:21"
+    },
+    {
+      "temperature": "25.68",
+      "humidity": "48.37",
+      "dewpoint": "14.01",
+      "pressure": "1019.02",
+      "speed": "2.66",
+      "direction": "S",
+      "datetime": "21-Jul-2021 07:11"
+    },
+    {
+      "temperature": "25.26",
+      "humidity": "49.44",
+      "dewpoint": "13.97",
+      "pressure": "1019.21",
+      "speed": "5.32",
+      "direction": "W",
+      "datetime": "21-Jul-2021 07:01"
+    },
+    {
+      "temperature": "24.73",
+      "humidity": "52.83",
+      "dewpoint": "14.53",
+      "pressure": "1019.24",
+      "speed": "1.33",
+      "direction": "SW",
+      "datetime": "21-Jul-2021 06:51"
+    },
+    {
+      "temperature": "25.80",
+      "humidity": "47.52",
+      "dewpoint": "13.83",
+      "pressure": "1019.39",
+      "speed": "3.99",
+      "direction": "S",
+      "datetime": "21-Jul-2021 06:41"
+    },
+    {
+      "temperature": "26.04",
+      "humidity": "48.26",
+      "dewpoint": "14.30",
+      "pressure": "1019.49",
+      "speed": "5.32",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 06:31"
+    },
+    {
+      "temperature": "25.83",
+      "humidity": "50.08",
+      "dewpoint": "14.70",
+      "pressure": "1019.56",
+      "speed": "0.00",
+      "direction": "W",
+      "datetime": "21-Jul-2021 06:21"
+    },
+    {
+      "temperature": "25.15",
+      "humidity": "50.79",
+      "dewpoint": "14.30",
+      "pressure": "1019.68",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "21-Jul-2021 06:11"
+    },
+    {
+      "temperature": "24.96",
+      "humidity": "50.92",
+      "dewpoint": "14.16",
+      "pressure": "1019.73",
+      "speed": "3.99",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 06:01"
+    },
+    {
+      "temperature": "25.22",
+      "humidity": "50.53",
+      "dewpoint": "14.28",
+      "pressure": "1019.79",
+      "speed": "0.00",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 05:51"
+    },
+    {
+      "temperature": "25.58",
+      "humidity": "47.88",
+      "dewpoint": "13.75",
+      "pressure": "1019.86",
+      "speed": "2.66",
+      "direction": "SW",
+      "datetime": "21-Jul-2021 05:41"
+    },
+    {
+      "temperature": "25.82",
+      "humidity": "47.18",
+      "dewpoint": "13.74",
+      "pressure": "1019.85",
+      "speed": "2.66",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 05:31"
+    },
+    {
+      "temperature": "25.52",
+      "humidity": "48.67",
+      "dewpoint": "13.96",
+      "pressure": "1019.97",
+      "speed": "3.99",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 05:21"
+    },
+    {
+      "temperature": "25.13",
+      "humidity": "48.41",
+      "dewpoint": "13.51",
+      "pressure": "1019.93",
+      "speed": "2.66",
+      "direction": "S",
+      "datetime": "21-Jul-2021 05:11"
+    },
+    {
+      "temperature": "24.85",
+      "humidity": "47.81",
+      "dewpoint": "13.06",
+      "pressure": "1020.04",
+      "speed": "1.33",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 05:01"
+    },
+    {
+      "temperature": "24.38",
+      "humidity": "50.18",
+      "dewpoint": "13.39",
+      "pressure": "1020.07",
+      "speed": "6.65",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 04:51"
+    },
+    {
+      "temperature": "24.30",
+      "humidity": "48.78",
+      "dewpoint": "12.87",
+      "pressure": "1020.00",
+      "speed": "0.00",
+      "direction": "W",
+      "datetime": "21-Jul-2021 04:41"
+    },
+    {
+      "temperature": "24.58",
+      "humidity": "46.25",
+      "dewpoint": "12.29",
+      "pressure": "1020.00",
+      "speed": "2.66",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 04:31"
+    },
+    {
+      "temperature": "23.88",
+      "humidity": "49.40",
+      "dewpoint": "12.68",
+      "pressure": "1019.88",
+      "speed": "2.66",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 04:21"
+    },
+    {
+      "temperature": "27.21",
+      "humidity": "41.50",
+      "dewpoint": "12.97",
+      "pressure": "1019.88",
+      "speed": "2.66",
+      "direction": "N",
+      "datetime": "21-Jul-2021 04:11"
+    },
+    {
+      "temperature": "24.47",
+      "humidity": "48.85",
+      "dewpoint": "13.05",
+      "pressure": "1019.90",
+      "speed": "0.00",
+      "direction": "N",
+      "datetime": "21-Jul-2021 04:01"
+    },
+    {
+      "temperature": "25.13",
+      "humidity": "45.21",
+      "dewpoint": "12.43",
+      "pressure": "1019.81",
+      "speed": "5.32",
+      "direction": "N",
+      "datetime": "21-Jul-2021 03:51"
+    },
+    {
+      "temperature": "26.76",
+      "humidity": "45.32",
+      "dewpoint": "13.96",
+      "pressure": "1019.87",
+      "speed": "0.00",
+      "direction": "S",
+      "datetime": "21-Jul-2021 03:41"
+    },
+    {
+      "temperature": "19.78",
+      "humidity": "64.66",
+      "dewpoint": "13.03",
+      "pressure": "1019.58",
+      "speed": "1.33",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 03:31"
+    },
+    {
+      "temperature": "19.59",
+      "humidity": "66.16",
+      "dewpoint": "13.20",
+      "pressure": "1019.59",
+      "speed": "1.33",
+      "direction": "W",
+      "datetime": "21-Jul-2021 03:21"
+    },
+    {
+      "temperature": "19.86",
+      "humidity": "63.90",
+      "dewpoint": "12.93",
+      "pressure": "1019.49",
+      "speed": "3.99",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 03:11"
+    },
+    {
+      "temperature": "19.37",
+      "humidity": "66.57",
+      "dewpoint": "13.08",
+      "pressure": "1019.43",
+      "speed": "0.00",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 03:01"
+    },
+    {
+      "temperature": "18.93",
+      "humidity": "67.36",
+      "dewpoint": "12.84",
+      "pressure": "1019.48",
+      "speed": "0.00",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 02:51"
+    },
+    {
+      "temperature": "18.50",
+      "humidity": "68.75",
+      "dewpoint": "12.74",
+      "pressure": "1019.54",
+      "speed": "0.00",
+      "direction": "N",
+      "datetime": "21-Jul-2021 02:41"
+    },
+    {
+      "temperature": "18.33",
+      "humidity": "69.07",
+      "dewpoint": "12.65",
+      "pressure": "1019.37",
+      "speed": "0.00",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 02:31"
+    },
+    {
+      "temperature": "18.28",
+      "humidity": "68.82",
+      "dewpoint": "12.54",
+      "pressure": "1019.60",
+      "speed": "1.33",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 02:21"
+    },
+    {
+      "temperature": "18.17",
+      "humidity": "69.26",
+      "dewpoint": "12.53",
+      "pressure": "1019.30",
+      "speed": "2.66",
+      "direction": "N",
+      "datetime": "21-Jul-2021 02:11"
+    },
+    {
+      "temperature": "18.30",
+      "humidity": "68.31",
+      "dewpoint": "12.45",
+      "pressure": "1019.25",
+      "speed": "2.66",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 02:01"
+    },
+    {
+      "temperature": "18.38",
+      "humidity": "67.86",
+      "dewpoint": "12.43",
+      "pressure": "1019.07",
+      "speed": "0.00",
+      "direction": "NE",
+      "datetime": "21-Jul-2021 01:50"
+    },
+    {
+      "temperature": "18.42",
+      "humidity": "69.02",
+      "dewpoint": "12.72",
+      "pressure": "1018.85",
+      "speed": "1.33",
+      "direction": "S",
+      "datetime": "21-Jul-2021 01:40"
+    },
+    {
+      "temperature": "18.68",
+      "humidity": "67.71",
+      "dewpoint": "12.68",
+      "pressure": "1018.78",
+      "speed": "6.65",
+      "direction": "N",
+      "datetime": "21-Jul-2021 01:30"
+    },
+    {
+      "temperature": "19.35",
+      "humidity": "66.03",
+      "dewpoint": "12.94",
+      "pressure": "1018.64",
+      "speed": "3.99",
+      "direction": "S",
+      "datetime": "21-Jul-2021 01:20"
+    },
+    {
+      "temperature": "19.45",
+      "humidity": "66.06",
+      "dewpoint": "13.04",
+      "pressure": "1018.61",
+      "speed": "1.33",
+      "direction": "W",
+      "datetime": "21-Jul-2021 01:10"
+    },
+    {
+      "temperature": "19.47",
+      "humidity": "66.73",
+      "dewpoint": "13.22",
+      "pressure": "1018.61",
+      "speed": "1.33",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 01:00"
+    },
+    {
+      "temperature": "19.58",
+      "humidity": "67.13",
+      "dewpoint": "13.41",
+      "pressure": "1018.52",
+      "speed": "2.66",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 00:50"
+    },
+    {
+      "temperature": "19.60",
+      "humidity": "66.55",
+      "dewpoint": "13.30",
+      "pressure": "1018.54",
+      "speed": "0.00",
+      "direction": "W",
+      "datetime": "21-Jul-2021 00:40"
+    },
+    {
+      "temperature": "19.62",
+      "humidity": "66.57",
+      "dewpoint": "13.32",
+      "pressure": "1018.58",
+      "speed": "0.00",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 00:30"
+    },
+    {
+      "temperature": "19.61",
+      "humidity": "65.89",
+      "dewpoint": "13.16",
+      "pressure": "1018.66",
+      "speed": "1.33",
+      "direction": "W",
+      "datetime": "21-Jul-2021 00:20"
+    },
+    {
+      "temperature": "19.60",
+      "humidity": "66.66",
+      "dewpoint": "13.32",
+      "pressure": "1018.73",
+      "speed": "1.33",
+      "direction": "NW",
+      "datetime": "21-Jul-2021 00:10"
+    },
+    {
+      "temperature": "19.51",
+      "humidity": "66.16",
+      "dewpoint": "13.12",
+      "pressure": "1018.70",
+      "speed": "1.33",
+      "direction": "W",
+      "datetime": "21-Jul-2021 00:00"
+    },
+    {
+      "temperature": "19.55",
+      "humidity": "66.23",
+      "dewpoint": "13.18",
+      "pressure": "1018.68",
+      "speed": "1.33",
+      "direction": "SW",
+      "datetime": "20-Jul-2021 23:50"
+    },
+    {
+      "temperature": "19.62",
+      "humidity": "66.62",
+      "dewpoint": "13.34",
+      "pressure": "1018.63",
+      "speed": "1.33",
+      "direction": "NW",
+      "datetime": "20-Jul-2021 23:40"
+    },
+    {
+      "temperature": "19.76",
+      "humidity": "63.86",
+      "dewpoint": "12.82",
+      "pressure": "1018.64",
+      "speed": "1.33",
+      "direction": "SW",
+      "datetime": "20-Jul-2021 23:30"
+    },
+    {
+      "temperature": "19.86",
+      "humidity": "62.44",
+      "dewpoint": "12.57",
+      "pressure": "1018.77",
+      "speed": "2.66",
+      "direction": "SW",
+      "datetime": "20-Jul-2021 23:20"
+    },
+    {
+      "temperature": "19.86",
+      "humidity": "63.37",
+      "dewpoint": "12.80",
+      "pressure": "1018.76",
+      "speed": "2.66",
+      "direction": "SW",
+      "datetime": "20-Jul-2021 23:10"
+    },
+    {
+      "temperature": "19.82",
+      "humidity": "64.86",
+      "dewpoint": "13.12",
+      "pressure": "1018.76",
+      "speed": "1.33",
+      "direction": "S",
+      "datetime": "20-Jul-2021 23:00"
+    },
+    {
+      "temperature": "19.85",
+      "humidity": "61.84",
+      "dewpoint": "12.41",
+      "pressure": "1018.76",
+      "speed": "1.33",
+      "direction": "S",
+      "datetime": "20-Jul-2021 22:50"
+    },
+    {
+      "temperature": "19.87",
+      "humidity": "64.11",
+      "dewpoint": "12.99",
+      "pressure": "1018.88",
+      "speed": "0.00",
+      "direction": "NW",
+      "datetime": "20-Jul-2021 22:40"
+    },
+    {
+      "temperature": "24.00",
+      "humidity": "77.46",
+      "dewpoint": "19.89",
+      "pressure": "1011.72",
+      "speed": "2.66",
+      "direction": "W",
+      "datetime": "22-Jul-2021 13:54 - teste"
+    }
+  ]
+}
